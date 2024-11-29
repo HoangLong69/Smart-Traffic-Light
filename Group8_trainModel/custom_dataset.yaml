@@ -1,0 +1,11 @@
+# My custom dataset for YOLOv5
+path: D:\\Hoang_Long_baitap\\betaVer0.5\\Train_data
+train: D:\\Hoang_Long_baitap\\betaVer0.5\\Train_data\\images\\train
+val: D:\\Hoang_Long_baitap\\betaVer0.5\\Train_data\\images\\val          # Ảnh kiểm tra (so với `path`)
+
+names:
+  0: car  
+  1: motorcycle
+
+
+
