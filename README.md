@@ -11,6 +11,18 @@ The Smart Traffic Light System project provides an efficient solution for urban 
 * Ethernet connectivity: The USR-E1 module ensures stable and efficient data transmission.
 * Optimized design: The Raspberry Pi Pico ensures low cost and high performance.
 
+# Control interface:
+The system includes a user-friendly control interface developed using **PyQt5**, providing the following features:
+
+- **Connect/Disconnect to IP and Port:** Allows users to establish or terminate connections to the traffic light system via specified IP addresses and ports.
+- **Send Timing Commands:** Enables users to set and adjust the timing for each traffic light remotely.
+- **Plot Graphs from CSV Files:** Provides visualization tools to generate graphs from CSV files, helping to analyze traffic data effectively.
+
+This interface enhances system usability and provides operators with powerful tools to monitor and manage traffic efficiently.
+<div align="center">
+    <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/IMG_0896.JPG" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="400">
+</div>
+
 # Project Members
 This project was developed by Group 8 from class DHDTVT17D at Industrial University of Ho Chi Minh City. Below are the group members and their responsibilities:
 
