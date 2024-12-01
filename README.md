@@ -16,7 +16,7 @@ Check out our project process on Google Drive: [Project Process Video](https://d
 </div>
 
 # Project Members
-This project was developed by Group 8 from class DHDTVT17D at Industrial University of Ho Chi Minh City. Below are the group members and their responsibilities:
+This project was developed by Group 8 from class DHDTVT17D at [Industrial University of Ho Chi Minh City](https://en.wikipedia.org/wiki/Industrial_University_of_Ho_Chi_Minh_City). Below are the group members and their responsibilities:
 
 <div align="center">
     <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/IMG_0896.JPG" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
