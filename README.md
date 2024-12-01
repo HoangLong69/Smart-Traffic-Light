@@ -2,7 +2,7 @@
 The Smart Traffic Light System project provides an efficient solution for urban traffic management by leveraging the Raspberry Pi Pico microcontroller, USR-E1 Ethernet module, and Yolov5 object detection model. The system is designed to detect and count vehicles (cars and motorbikes) on two roads using two cameras, then automatically adjust the duration of green and red lights based on the traffic density on each road.
 
 <div align="center">
-    <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/8_Hoàn thiện mô hình.jpg" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="400">
+    <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/8_Hoàn thiện mô hình.jpg" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
 
 # Key Features:
@@ -20,14 +20,14 @@ The system includes a user-friendly control interface developed using **PyQt5**,
 
 This interface enhances system usability and provides operators with powerful tools to monitor and manage traffic efficiently.
 <div align="center">
-    <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/5_Giao diện điều khiển và nhận diện.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="400">
+    <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/5_Giao diện điều khiển và nhận diện.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
 
 # Project Members
 This project was developed by Group 8 from class DHDTVT17D at Industrial University of Ho Chi Minh City. Below are the group members and their responsibilities:
 
 <div align="center">
-    <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/IMG_0896.JPG" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="400">
+    <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/IMG_0896.JPG" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
 
 | Name              | Responsibility                                      |
