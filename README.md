@@ -9,7 +9,7 @@ The Smart Traffic Light System project provides an efficient solution for urban 
 
 # Project Members
 This project was developed by Group 8 from class DHDTVT17D at Industrial University of Ho Chi Minh City:
-* Hoàng Long
+* Trần Thẩm Hoàng Long
 * Kiều Hoàng My
 * Tạ Quang Khải
 * Phùng Quyền Linh
