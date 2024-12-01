@@ -32,7 +32,7 @@ This project was developed by Group 8 from class DHDTVT17D at Industrial Univers
 
 | Name              | Responsibility                                      |
 |-------------------|----------------------------------------------------|
-| **Hoàng Long**    | Team Leader, PCB design, component soldering, interface programming, and model training |
+| **Hoàng Long**    | Team Leader, PCB design, component soldering, interface design, and model training |
 | **Kiều Hoàng My** | Model design and preparation for training          |
 | **Tạ Quang Khải** | Firmware development and model training            |
 | **Phùng Quyền Linh** | Image processing implementation                 |
