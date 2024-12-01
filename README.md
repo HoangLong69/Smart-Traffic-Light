@@ -9,6 +9,10 @@ The Smart Traffic Light System project provides an efficient solution for urban 
     <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/1_Top layer PCB_Altium.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
 
+<div align="center">
+    <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/3_Bottom layer PCB_Altium.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
+</div>
+
 # Project Members
 This project was developed by Group 8 from class DHDTVT17D at Industrial University of Ho Chi Minh City. Below are the group members and their responsibilities:
 
