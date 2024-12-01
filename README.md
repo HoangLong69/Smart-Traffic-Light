@@ -15,7 +15,7 @@ The Smart Traffic Light System project provides an efficient solution for urban 
 This project was developed by Group 8 from class DHDTVT17D at Industrial University of Ho Chi Minh City. Below are the group members and their responsibilities:
 
 <div align="center">
-    <img src="images/traffic_system.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="400">
+    <img src="images/IMG_0896.JPG" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="400">
 </div>
 
 | Name              | Responsibility                                      |
