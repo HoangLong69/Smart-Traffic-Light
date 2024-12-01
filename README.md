@@ -52,11 +52,12 @@ The YOLOv5 model was trained locally on a high-performance computer with the fol
 <div align="center">
     <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/trainning.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
+### Training Result:
 
 ### Training Parameters
 The training was conducted using the following parameters:  
 ```python
 results = model.train(data='custom_dataset.yaml', epochs=50, device=device, batch=16)
 
-### Training Result:
+
 
