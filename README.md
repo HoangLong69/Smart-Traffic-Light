@@ -56,5 +56,7 @@ The YOLOv5 model was trained locally on a high-performance computer with the fol
 ### Training Parameters
 The training was conducted using the following parameters:  
 ```python
-results = model.train(data='custom_dataset.yaml', epochs=50, device=device, batch=16)
+results = model.train(data='custom_dataset.yaml', epochs=50, device=device, batch=16)```python
+
+### Training Result:
 
