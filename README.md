@@ -54,6 +54,9 @@ The YOLOv5 model was trained locally on a high-performance computer with the fol
 </div>
 
 ### Training Result:
+<div align="center">
+    <img src="Group8_trainModel/results.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
+</div>
 
 ### Training Parameters
 The training was conducted using the following parameters:  
