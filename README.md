@@ -5,6 +5,20 @@ The Smart Traffic Light System project provides an efficient solution for urban 
     <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/8_Hoàn thiện mô hình.jpg" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
 
+# Project Members
+This project was developed by Group 8 from class DHDTVT17D at Industrial University of Ho Chi Minh City. Below are the group members and their responsibilities:
+
+<div align="center">
+    <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/IMG_0896.JPG" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
+</div>
+
+| Name              | Responsibility                                      |
+|-------------------|----------------------------------------------------|
+| **Hoàng Long**    | Team Leader, PCB design, component soldering, interface design, and model training |
+| **Kiều Hoàng My** | Model design and preparation for training          |
+| **Tạ Quang Khải** | Firmware development and model training            |
+| **Phùng Quyền Linh** | Image processing implementation                 |
+
 # Key Features:
 * Real-time vehicle detection: Utilizes the Yolov5 model to identify and count cars and motorbikes.
 * Intelligent traffic light timing adjustment: Dynamically changes the duration of green and red lights according to traffic density, reducing congestion.
@@ -23,18 +37,20 @@ This interface enhances system usability and provides operators with powerful to
     <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/5_Giao diện điều khiển và nhận diện.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
 
-# Project Members
-This project was developed by Group 8 from class DHDTVT17D at Industrial University of Ho Chi Minh City. Below are the group members and their responsibilities:
+This system not only improves traffic flow but also serves as a research platform for developing more advanced smart traffic solutions in the future.
 
+# Model Training on Local Computer
+The YOLOv5 model was trained locally on a high-performance computer with the following specifications:
+
+- **CPU:** Intel Core i7 12700F  
+- **RAM:** 32GB  
+- **GPU:** NVIDIA RTX 4060 Ti with 16GB VRAM
 <div align="center">
-    <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/IMG_0896.JPG" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
+    <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/5_Giao diện điều khiển và nhận diện.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
 
-| Name              | Responsibility                                      |
-|-------------------|----------------------------------------------------|
-| **Hoàng Long**    | Team Leader, PCB design, component soldering, interface design, and model training |
-| **Kiều Hoàng My** | Model design and preparation for training          |
-| **Tạ Quang Khải** | Firmware development and model training            |
-| **Phùng Quyền Linh** | Image processing implementation                 |
+### Training Parameters
+The training was conducted using the following parameters:  
+```python
+results = model.train(data='custom_dataset.yaml', epochs=50, device=device, batch=16)
 
-This system not only improves traffic flow but also serves as a research platform for developing more advanced smart traffic solutions in the future.
