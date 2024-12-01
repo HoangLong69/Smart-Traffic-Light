@@ -5,6 +5,10 @@ The Smart Traffic Light System project provides an efficient solution for urban 
     <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/8_Hoàn thiện mô hình.jpg" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
 
+<div align="center">
+    <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/1_Top layer PCB_Altium.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
+</div>
+
 # Project Members
 This project was developed by Group 8 from class DHDTVT17D at Industrial University of Ho Chi Minh City. Below are the group members and their responsibilities:
 
@@ -46,7 +50,7 @@ The YOLOv5 model was trained locally on a high-performance computer with the fol
 - **RAM:** 32GB  
 - **GPU:** NVIDIA RTX 4060 Ti with 16GB VRAM
 <div align="center">
-    <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/5_Giao diện điều khiển và nhận diện.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
+    <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/trainning.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
 
 ### Training Parameters
