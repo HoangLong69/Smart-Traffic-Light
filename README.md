@@ -13,4 +13,5 @@ This project was developed by Group 8 from class DHDTVT17D at Industrial Univers
 * Kiều Hoàng My
 * Tạ Quang Khải
 * Phùng Quyền Linh
-This system not only improves traffic flow but also serves as a research platform for developing more advanced smart traffic solutions in the future.
+
+# This system not only improves traffic flow but also serves as a research platform for developing more advanced smart traffic solutions in the future.
