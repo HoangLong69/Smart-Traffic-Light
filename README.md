@@ -8,10 +8,13 @@ The Smart Traffic Light System project provides an efficient solution for urban 
 * Optimized design: The Raspberry Pi Pico ensures low cost and high performance.
 
 # Project Members
-This project was developed by Group 8 from class DHDTVT17D at Industrial University of Ho Chi Minh City:
-* Trần Thẩm Hoàng Long
-* Kiều Hoàng My
-* Tạ Quang Khải
-* Phùng Quyền Linh
+This project was developed by Group 8 from class DHDTVT17D at Industrial University of Ho Chi Minh City. Below are the group members and their responsibilities:
 
-# This system not only improves traffic flow but also serves as a research platform for developing more advanced smart traffic solutions in the future.
+| Name              | Responsibility                                      |
+|-------------------|----------------------------------------------------|
+| **Hoàng Long**    | Team Leader, System Integration                    |
+| **Kiều Hoàng My** | Software Development, YOLOv5 Implementation       |
+| **Tạ Quang Khải** | Hardware Design, Raspberry Pi Pico Programming    |
+| **Phùng Quyền Linh** | Ethernet Communication Setup, Camera Configuration |
+
+This system not only improves traffic flow but also serves as a research platform for developing more advanced smart traffic solutions in the future.
