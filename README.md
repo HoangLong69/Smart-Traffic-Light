@@ -18,10 +18,10 @@ This project was developed by Group 8 from class DHDTVT17D at Industrial Univers
 
 | Name              | Responsibility                                      |
 |-------------------|----------------------------------------------------|
-| **Hoàng Long**    | Team Leader, PCB design, component soldering, interface design, and model training |
-| **Kiều Hoàng My** | Model design and preparation for training          |
-| **Tạ Quang Khải** | Firmware development and model training            |
-| **Phùng Quyền Linh** | Image processing implementation                 |
+| [Hoàng Long](https://github.com/HoangLong69)    | Team Leader, PCB design, component soldering, interface design, and model training  |
+| [Kiều Hoàng My](https://github.com/kieuhoangmy) | Model design and preparation for training  |
+| [Tạ Quang Khải](https://github.com/taquangkhai) | Firmware development and model training  |
+| [Phùng Quyền Linh](https://github.com/phungquyenlinh) | Image processing implementation  |
 
 # Key Features:
 * Real-time vehicle detection: Utilizes the Yolov5 model to identify and count cars and motorbikes.
