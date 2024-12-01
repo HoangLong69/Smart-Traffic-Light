@@ -68,8 +68,8 @@ The YOLOv5 model was trained locally on a high-performance computer with the fol
 </div>
 
 ### Training Parameters
-The training was conducted using the following parameters:  
-```python
-results = model.train(data='custom_dataset.yaml', epochs=50, device=device, batch=16)
+The training was conducted using the following parameters: results = model.train(data='custom_dataset.yaml', epochs=50, device=device, batch=16)
 
-
+# References
+- [YOLOv5 GitHub Repository](https://github.com/ultralytics/yolov5)
+- [ESP32-Wiznet-W5500-Micropython GitHub Repository](https://github.com/Ayyoubzadeh/ESP32-Wiznet-W5500-Micropython)
