@@ -27,9 +27,9 @@ This project was developed by Group 8 from class DHDTVT17D at [Industrial Univer
 | Name              | Responsibility                                      |
 |-------------------|----------------------------------------------------|
 | [Hoàng Long](https://github.com/HoangLong69)    | Team Leader, PCB design, component soldering, interface design, and model training  |
-| [Kiều Hoàng My](https://github.com/kieuhoangmy) | Model design and preparation for training  |
+| [Kiều Hoàng My](https://www.facebook.com/profile.php?id=100028766045870) | Model design and preparation for training  |
 | [Tạ Quang Khải](https://www.facebook.com/khai.ta.391) | Firmware development and model training  |
-| [Phùng Quyền Linh](https://github.com/phungquyenlinh) | Image processing implementation  |
+| [Phùng Quyền Linh](https://www.facebook.com/profile.php?id=100013088104378) | Image processing implementation  |
 </div>
 
 # Key Features:
