@@ -1,7 +1,7 @@
 # About the Project
 The Smart Traffic Light System project provides an efficient solution for urban traffic management by leveraging the Raspberry Pi Pico microcontroller, USR-E1 Ethernet module, and Yolov5 object detection model. The system is designed to detect and count vehicles (cars and motorbikes) on two roads using two cameras, then automatically adjust the duration of green and red lights based on the traffic density on each road.
 
-Check out our project process on Google Drive: [Project Process Video](https://drive.google.com/file/d/1HggtwdbnzzHOOZ62iVhDnGG5KFgsUezO/view?usp=drive_link)
+Check out our project process on YouTube: [Project Process Video](https://www.youtube.com/watch?v=YDRMhFJVMHo)
 
 <div align="center">
     <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/8_Hoàn thiện mô hình.jpg" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
@@ -16,7 +16,7 @@ Check out our project process on Google Drive: [Project Process Video](https://d
 </div>
 
 # Project Members
-This project was developed by Group 8 from class DHDTVT17D at [Industrial University of Ho Chi Minh City](https://en.wikipedia.org/wiki/Industrial_University_of_Ho_Chi_Minh_City). Below are the group members and their responsibilities:
+This project was developed by Group 8 from class DHDTVT17D at [Industrial University of Ho Chi Minh City](https://en.wikipedia.org/wiki/Industrial_University_of_Ho_Chi_Minh_City). Our group would like to thank [Dr. Tran Quy Huu](https://www.youtube.com/@huutranstudio5806) (in green shirt) for his enthusiastic supervision.
 
 <div align="center">
     <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/DAKTNC 4.jpg" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
