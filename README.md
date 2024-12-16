@@ -33,7 +33,7 @@ This project was developed by Group 8 from class DHDTVT17D at [Industrial Univer
 </div>
 
 <div align="center">
-    
+From right to left
 | Name              | Responsibility                                      |
 |-------------------|----------------------------------------------------|
 | [Hoàng Long](https://github.com/HoangLong69)    | Team Leader, PCB design, component soldering, interface design, and model training  |
