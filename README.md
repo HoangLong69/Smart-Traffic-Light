@@ -83,3 +83,5 @@ The training was conducted using the following parameters: results = model.train
 # References
 - [YOLOv5 GitHub Repository](https://github.com/ultralytics/yolov5)
 - [ESP32-Wiznet-W5500-Micropython GitHub Repository](https://github.com/Ayyoubzadeh/ESP32-Wiznet-W5500-Micropython)
+- [RP2040 Schematic](https://datasheets.raspberrypi.com/rp2040/hardware-design-with-rp2040.pdf)
+- [W5500 Schematic](https://github.com/XYZ-qiyh/W5500_SCH_PCB/blob/main/W5500_SCH_PCB/W5500_SCH.SchDoc)
