@@ -7,12 +7,22 @@ Check out our project process on YouTube: [Project Process Video](https://www.yo
     <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/8_Hoàn thiện mô hình.jpg" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
 
+# PCB Version 1
 <div align="center">
     <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/1_Top layer PCB_Altium.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
 
 <div align="center">
     <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/3_Bottom layer PCB_Altium.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
+</div>
+
+# PCB Version 2
+<div align="center">
+    <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/ver2-toplayer.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
+</div>
+
+<div align="center">
+    <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/ver2-bottomlayer.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
 
 # Project Members
