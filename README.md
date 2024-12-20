@@ -69,7 +69,7 @@ This interface enhances system usability and provides operators with powerful to
 This system not only improves traffic flow but also serves as a research platform for developing more advanced smart traffic solutions in the future.
 
 # Model Training on Local Computer
-The YOLOv5 model was trained locally on a low-performance computer with the following specifications:
+The YOLOv5 model was trained locally on a low-performance computer (my dad's computer =D) with the following specifications:
 
 - **CPU:** Intel Core i7 12700F  
 - **RAM:** 32GB  
