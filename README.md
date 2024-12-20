@@ -6,7 +6,7 @@
 </div>
 
 * Check out our project process on my YouTube channel: [Project Process Video](https://youtu.be/pHkLzqRRZPc?si=HSeDTStA0So9FOBp)
-* It's also a process video but uploaded on my supervisor's YouTube channel, everyone can like and subscribe to his channel: [Huu Tran Studio](https://youtu.be/YDRMhFJVMHo?si=qRggM1u9mdvM0gvu)
+* It's also a process video but it was uploaded on my supervisor's YouTube channel, everyone can like and subscribe to his channel: [Huu Tran Studio](https://youtu.be/YDRMhFJVMHo?si=qRggM1u9mdvM0gvu)
 
 <div align="center">
     <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/8_Hoàn thiện mô hình.jpg" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
