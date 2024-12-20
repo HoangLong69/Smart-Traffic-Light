@@ -1,6 +1,6 @@
 # About the Project
 * The Smart Traffic Light System project provides an efficient solution for urban traffic management by leveraging the Raspberry Pi Pico microcontroller, USR-E1 Ethernet module, and Yolov5 object detection model. The system is designed to detect and count vehicles (cars and motorbikes) on two roads using two cameras, then automatically adjust the duration of green and red lights based on the traffic density on each road.
-* My team earned an A+ for this project, reflecting our dedication and effort in creating an efficient and innovative solution:
+* My team got an A+ for this project, reflecting our dedication and effort in creating an efficient and innovative solution:
 <div align="center">
     <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/A+.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
