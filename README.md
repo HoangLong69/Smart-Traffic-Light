@@ -12,6 +12,15 @@
     <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/8_Hoàn thiện mô hình.jpg" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
 
+# Flowchart
+<div align="center">
+    <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/Lưu đồ tổng quát_English-Software_PowerPoint.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
+</div>
+
+<div align="center">
+    <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/Lưu đồ tổng quát_English-Hardware_PowerPoint (1).png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
+</div>
+
 # PCB Version 1
 <div align="center">
     <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/1_Top layer PCB_Altium.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
