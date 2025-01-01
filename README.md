@@ -40,7 +40,7 @@
 </div>
 
 # Project Members
-This project was developed by Group 8 from class DHDTVT17D at [Industrial University of Ho Chi Minh City](https://en.wikipedia.org/wiki/Industrial_University_of_Ho_Chi_Minh_City). Our group would like to thank [Dr. Tran Quy Huu](https://www.youtube.com/@huutranstudio5806) (in green shirt) for his enthusiastic supervision.
+This project was developed by Group 8 from class DHDTVT17D at [Industrial University of Ho Chi Minh City](https://en.wikipedia.org/wiki/Industrial_University_of_Ho_Chi_Minh_City). Our group would like to thank [PhD. Tran Quy Huu](https://www.youtube.com/@huutranstudio5806) (in green shirt) for his enthusiastic supervision.
 
 <div align="center">
     <img src="PCB Desgin-Giao diện điều khiển-Hoàn thiện mô hình/DAKTNC 4.jpg" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
